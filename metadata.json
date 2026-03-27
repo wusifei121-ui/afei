@@ -1,0 +1,5 @@
+{
+  "name": "Heartfelt Rain Editor",
+  "description": "An immersive atmospheric editor featuring realistic GLSL rain effects on glass, inspired by David Hoskins' Heartfelt.",
+  "requestFramePermissions": []
+}
